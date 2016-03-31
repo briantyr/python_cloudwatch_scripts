@@ -1,6 +1,6 @@
 
 
-i**This is testing for cloudwatcn notifications.**
+**This is testing for cloudwatcn notifications.**
 
 Ideally, all scripts will be written in Python and will interact with your AWS environment via the boto python module.
 
